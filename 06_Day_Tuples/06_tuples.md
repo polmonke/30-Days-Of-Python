@@ -77,8 +77,8 @@ len(tpl)
 
 ### Accessing Tuple Items
 
-- Positive Indexing
-  Similar to the list data type we use positive or negative indexing to access tuple items.
+- Positive Indexing,
+  similar to the list data type we use positive or negative indexing to access tuple items.
   ![Accessing tuple items](../images/tuples_index.png)
 
   ```py
@@ -97,7 +97,7 @@ len(tpl)
   ```
 
 - Negative indexing
-  Negative indexing means beginning from the end, -1 refers to the last item, -2 refers to the second last and the negative of the list/tuple length refers to the first item.
+  means beginning from the end, -1 refers to the last item, -2 refers to the second last and the negative of the list/tuple length refers to the first item.\
   ![Tuple Negative indexing](../images/tuple_negative_indexing.png)
 
   ```py
